@@ -1,6 +1,6 @@
 # Rafael Saldanha
 
-Trabalho com dados na prática: pipelines de ETL, modelagem dimensional e dashboards em Power BI. Venho de uma base em TI e infraestrutura, migrando pra engenharia e análise de dados.
+Trabalho com dados na prática: pipelines de ETL, modelagem dimensional e dashboards em Power BI. Venho de uma base em TI e infraestrutura, migrando pra engenharia, ciência e análise de dados.
 
 ## Stack
 
